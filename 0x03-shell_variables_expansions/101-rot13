@@ -1,1 +1,2 @@
-
+#!/bin/bash
+tri 'A-Za-z' 'N-ZA-mn-za-m'
